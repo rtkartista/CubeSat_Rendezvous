@@ -6,9 +6,10 @@
 2. Position Controller
 <img src="Plots&Diagrams/PositionController.gif" />
 
-### Disturbances on a satellite in a low earth orbit
-### 6DOF motion of one satellite in another's Frame of reference
-### Design for a Optimal controller for the translational motion
-### Design for a Sliding mode controller for the attitute motion
-### Using Genetic Algorithms to optimize the performance
+## Objectives Achieved
+1. Disturbance0 Forces on a satellite in a low earth orbit
+2. 6DOF motion of one satellite in another's Frame of reference
+3. Design for a Optimal controller for the translational motion
+4. Design for a Sliding mode controller for the attitute motion
+5. Using Genetic Algorithms to optimize the performance
 
