@@ -1,5 +1,10 @@
 # This repo contains code for Performance Optimization Of The 6DOF de-Centralized Docking Controller Using Genetic Algorithms
 
+
+<img src="Plots&Diagrams/AttitudeController.gif" />
+
+<img src="Plots&Diagrams/PositionController.gif" />
+
 ## Disturbances on a satellite in a low earth orbit
 ## 6DOF motion of one satellite in another's Frame of reference
 ## Design for a Optimal controller for the translational motion
